@@ -1,0 +1,8 @@
+# Qt 기반 UI 프레임워크
+PySide6==6.6.2
+
+# Ollama Python API
+ollama==0.1.6
+
+# 기타 (기본적으로 포함되나, 명시적 명시 추천)
+requests>=2.25.1  # 일부 ollama 내부 종속성
